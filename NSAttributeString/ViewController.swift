@@ -6,6 +6,10 @@
 //  Copyright © 2016 otukutun. All rights reserved.
 //
 
+// REF:http://qiita.com/you_matz/items/bbf0e6632cc56823948a
+// REF: http://yoshiminu.tumblr.com/post/94352468923/objective-cnsattributedstring%E3%81%A7%E3%83%AA%E3%83%B3%E3%82%AF%E6%96%87%E5%AD%97%E3%82%92%E4%BD%9C%E3%82%8B
+// REF:http://blog.kishikawakatsumi.com/entry/20130605/1370370925
+
 import UIKit
 import SafariServices
 
